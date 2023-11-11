@@ -88,7 +88,7 @@
 /* Copy the first part of user declarations.  */
 
 
-#include "grammar.hh"
+#include "ghidra/grammar.hh"
 
 namespace ghidra {
 
